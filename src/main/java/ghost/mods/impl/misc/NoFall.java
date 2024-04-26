@@ -7,7 +7,7 @@ import net.minecraft.src.Packet10Flying;
 public class NoFall extends Mod {
 
 	public NoFall() {
-		super("NoFall", "Prevents you from taking fall damage", Category.MISC, true);
+		super("NoFall", " Does not prevents you from taking fall damage", Category.MISC, true);
 	}
 
 	@Override
